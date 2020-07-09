@@ -1,0 +1,24 @@
+{
+	"item.ultimatemod.vodka": "vodka",
+	"block.ultimatemod.chicken_block": "chicken block",
+	"block.ultimatemod.chicken_slab": "chicken slab",
+	"block.ultimatemod.chicken_stair": "chicken stairs",
+	"block.ultimatemod.chicken_wall": "chicken wall",
+	
+	"itemGroup.ultimate": "Ultimate",
+	
+	"item.ultimatemod.uchanka" : "uchanka",
+	"item.ultimatemod.tracksuit_top" : "black tracksuit vest",
+	"item.ultimatemod.tracksuit_bottom" : "black tracksuit pants",
+	"item.ultimatemod.baskets" : "baskets",
+	
+	"item.ultimatemod.kalashnikov" : "kalashnikov",
+	"item.ultimatemod.alexei_sword" : "Grashwandir",
+	"item.ultimatemod.karisa_dagger" : "Karisa dagger",
+	"item.ultimatemod.dwarven_axe" : "Dwarven axe",
+	
+	"entity.ultimatemod.dwarf_entity" : "dwarf",
+	"item.ultimatemod.dwarf_entity_egg" : "Dwarf spawn egg",
+	
+	"item.ultimatemod.beer" : "ale"
+} 

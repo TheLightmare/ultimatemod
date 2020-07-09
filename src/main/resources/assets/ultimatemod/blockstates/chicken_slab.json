@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "ultimatemod:block/chicken_slab" },
+        "type=top": { "model": "ultimatemod:block/chicken_slab_top" },
+        "type=double": { "model": "ultimatemod:block/chicken_block" }
+    }
+}

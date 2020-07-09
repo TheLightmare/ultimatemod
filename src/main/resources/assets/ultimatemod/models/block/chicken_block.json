@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "ultimatemod:blocks/chicken_block"
+    }
+}

@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern" : [
+		"ppp",
+		"pbp",
+		"ppp"
+	],
+	"key": 
+	{
+	
+		"p": {"item": "minecraft:potato"},
+		"b": {"item": "minecraft:glass_bottle"}
+	
+	},
+	
+	"result": {
+		"item": "ultimatemod:vodka",
+		"count": 3
+	}
+}

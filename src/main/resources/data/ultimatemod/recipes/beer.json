@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern" : [
+		"ppp",
+		"pbp",
+		"ppp"
+	],
+	"key": 
+	{
+	
+		"p": {"item": "minecraft:wheat"},
+		"b": {"item": "minecraft:barrel"}
+	
+	},
+	
+	"result": {
+		"item": "ultimatemod:beer",
+		"count": 9
+	}
+}

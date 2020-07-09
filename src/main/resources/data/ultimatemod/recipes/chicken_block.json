@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern" : [
+		"###",
+		"###",
+		"###"
+	],
+	"key": 
+	{
+	
+		"#": {"item": "minecraft:chicken"}
+	
+	},
+	
+	"result": {
+		"item": "ultimatemod:chicken_block",
+		"count": 1
+	}
+}

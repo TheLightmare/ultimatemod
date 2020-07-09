@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "ultimatemod:blocks/chicken_block",
+        "top": "ultimatemod:blocks/chicken_block",
+        "side": "ultimatemod:blocks/chicken_block"
+    }
+}

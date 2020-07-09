@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern" : [
+		"#",
+		"##",
+		"###"
+	],
+	"key": 
+	{
+	
+		"#": {"item": "ultimatemod:chicken_block"}
+	
+	},
+	
+	"result": {
+		"item": "ultimatemod:chicken_stair",
+		"count": 6
+	}
+}
